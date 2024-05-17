@@ -1,8 +1,11 @@
-# Hello, I'm Shreesanyog Rath! 👋
+![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/9df16830-42af-4cfc-91cd-dc44dad7c304)
 
-## 🎓 Student at IIIT Bhubaneswar | 💻 Web Developer
 
-I’m currently pursuing undergraduate studies at the International Institute of Information Technology (IIIT) Bhubaneswar. As a dedicated web developer, I've honed my skills in a variety of programming languages and frameworks.
+<h1 align="center"> Hello, I'm Shreesanyog Rath! 👋</h1>
+
+<h2 align="center">💻 Web Developer</h2>
+
+I’m currently pursuing undergraduate studies at the **International Institute of Information Technology (IIIT) Bhubaneswar**. As a dedicated web developer, I've honed my skills in a variety of programming languages and frameworks.
 ### Coding: My Passion 🚀
 Coding is not just a skill for me—it's a way of life. I love the challenge of solving complex problems and the satisfaction of building something from the ground up. Whether it's a small script or a full-fledged application, I bring my all to every project I undertake.
 
