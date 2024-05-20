@@ -47,10 +47,10 @@ Visual Studio Code, Jupyter, C++ Builder, CodeBlocks
 
 -----
 # 📊 GitHub Stats:
-![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/d532ff14-fc8e-4d16-be95-2e0227e49898)
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreesanyog&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesanyog&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
