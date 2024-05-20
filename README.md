@@ -19,7 +19,7 @@ I believe that growth happens at the intersection of education and collaboration
 
 **Languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 -----
 **Frameworks And Libraries**
 
@@ -43,10 +43,11 @@ I believe that growth happens at the intersection of education and collaboration
 -----
 **Other**
 
-MATLAB, Visual Studio Code, Jupyter, C++ Builder, CodeBlocks
+Visual Studio Code, Jupyter, C++ Builder, CodeBlocks
 
 -----
 # 📊 GitHub Stats:
+![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/d532ff14-fc8e-4d16-be95-2e0227e49898)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesanyog&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
