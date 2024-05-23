@@ -7,10 +7,10 @@
 
 I’m currently pursuing undergraduate studies at the **International Institute of Information Technology (IIIT) Bhubaneswar**. As a dedicated web developer, I've honed my skills in a variety of programming languages and frameworks.
 ### Coding: My Passion 🚀
-Coding is not just a skill for me—it's a way of life. I love the challenge of solving complex problems and the satisfaction of building something from the ground up. Whether it's a small script or a full-fledged application, I bring my all to every project I undertake.
+Coding is not just a skill for me — it's a way of life. I love the challenge of solving complex problems and the satisfaction of building something from the ground up. Whether it's a small script or a full-fledged application, I bring my all to every project I undertake.
 
 ### Collaboration and Growth 🌱
-I believe that growth happens at the intersection of education and collaboration. I'm always open to connecting with fellow developers, sharing knowledge, and working together to create amazing things.
+I believe that growth happens at the intersection of education and collaboration. I'm always open to connecting with fellow developers, sharing knowledge and working together to create amazing things.
 
 
 
