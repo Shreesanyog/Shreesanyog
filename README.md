@@ -52,6 +52,6 @@ Visual Studio Code, Jupyter, C++ Builder, CodeBlocks
 
 🔗 **Click below to know more about me:**
 
-- <a href="https://shreesanyog.github.io/Shreesanyog_portfolio/">Portfolio</a>
+- <a href="https://portfolio-shreesanyog-rath.vercel.app/">Portfolio</a>
 
 Feel free to reach out for collaborations or just a chat about all things tech!
