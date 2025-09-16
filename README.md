@@ -146,4 +146,4 @@ Feel free to reach out to me for collaborations, project discussions, or a frien
 
 ### Open to Opportunities
 
-As a third-year student, I'm eager to apply my skills in real-world projects and contribute to innovative solutions. I’m looking for opportunities to further enhance my expertise while collaborating with talented teams. Let's connect and build something great!
+As a final-year student, I'm eager to apply my skills in real-world projects and contribute to innovative solutions. I’m looking for opportunities to further enhance my expertise while collaborating with talented teams. Let's connect and build something great!
