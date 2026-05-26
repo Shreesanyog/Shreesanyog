@@ -1,4 +1,4 @@
-<!--![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/9df16830-42af-4cfc-91cd-dc44dad7c304) -->
+<!-- ![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/9df16830-42af-4cfc-91cd-dc44dad7c304) -->
 
 <h1 align="center"> Hello, I'm Shreesanyog Rath! 👋</h1>
 
@@ -34,8 +34,7 @@ I believe that growth happens at the intersection of continuous learning and col
 -----
 
 ### **AI, ML & Agentic Systems**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-F58025?style=for-the-badge&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-*(Also utilizing LangGraph, CrewAI, and Langfuse for orchestration and observability)*
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-F58025?style=for-the-badge&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge) ![CrewAI](https://img.shields.io/badge/CrewAI-%23FF6B6B.svg?style=for-the-badge) ![Langfuse](https://img.shields.io/badge/Langfuse-%23000000.svg?style=for-the-badge)
 
 -----
 
@@ -45,8 +44,7 @@ I believe that growth happens at the intersection of continuous learning and col
 -----
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-*(Also utilizing Pinecone for Vector DBs)*
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
 
 -----
  
