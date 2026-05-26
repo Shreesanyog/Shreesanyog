@@ -1,4 +1,4 @@
-![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/9df16830-42af-4cfc-91cd-dc44dad7c304)
+<!--![image](https://github.com/Shreesanyog/Shreesanyog/assets/166977453/9df16830-42af-4cfc-91cd-dc44dad7c304) -->
 
 <h1 align="center"> Hello, I'm Shreesanyog Rath! 👋</h1>
 
