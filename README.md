@@ -72,6 +72,7 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 ### 🏆 Highlights
 
 - 🛠️ **Cross-Domain Projects**: I enjoy building systems that span multiple domains. Whether it's training an AI agent, developing a robust REST API, or configuring a 4-bit Carry Look-Ahead Adder, my work balances high-level intelligence with low-level efficiency.
+  
 - 🌐 **Open Source Contributions**: I actively contribute to open-source projects and have collaborated on various initiatives to improve community-driven tools and repositories, maintaining a high merge rate on my feature implementations and bug fixes.
 
 ---
