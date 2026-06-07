@@ -48,10 +48,10 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesanyog&theme=transparent">
+      <img width="420" src="./profile-summary-cards-output/transparent/1-repos-per-language.svg">
     </td>
     <td width="50%">
-      <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreesanyog&theme=transparent">
+      <img width="420" src="./profile-summary-cards-output/transparent/2-most-commit-language.svg">
     </td>
   </tr>
 </table>
@@ -59,14 +59,13 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesanyog&theme=transparent">
+      <img width="420" src="./profile-summary-cards-output/transparent/3-stats.svg">
     </td>
     <td width="50%">
       <img width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreesanyog&theme=dracula&area=true">
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Highlights
