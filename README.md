@@ -48,10 +48,11 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/transparent/1-repos-per-language.svg">
+      <!-- Changed "transparent" to "dracula" in the URL -->
+      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
     </td>
     <td width="50%">
-      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/transparent/2-most-commit-language.svg">
+      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
     </td>
   </tr>
 </table>
@@ -59,9 +60,10 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/transparent/3-stats.svg">
+      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/dracula/3-stats.svg">
     </td>
     <td width="50%">
+      <!-- This one was already Dracula! -->
       <img width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreesanyog&theme=dracula&area=true">
     </td>
   </tr>
