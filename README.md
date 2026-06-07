@@ -12,7 +12,9 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 
 - **🧠 Applied AI & Agentic Systems:** Architecting context-aware LLM pipelines and deploying intelligent multi-agent systems. 
   *Public Highlight:* [Enterprise Crew AI Implementation](https://github.com/Shreesanyog/enterprise_customer_support_automation_system) — *A multi-agent system built to automate enterprise workflows.*
+  
 - **🌐 Scalable Full-Stack Applications:** Developing robust, end-to-end platforms using the MERN stack and Next.js, integrating cloud databases and secure authentication.
+  
 - **⚡ System-Level Foundations:** Leveraging my Electronics Engineering background (Verilog, digital logic) to build software with a deep understanding of hardware-level execution and system efficiency.
 
 ---
