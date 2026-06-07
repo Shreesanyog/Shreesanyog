@@ -42,14 +42,16 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+---
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesanyog&theme=transparent">
+      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/transparent/1-repos-per-language.svg">
     </td>
     <td width="50%">
-      <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreesanyog&theme=transparent">  
+      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/transparent/2-most-commit-language.svg">
     </td>
   </tr>
 </table>
@@ -57,13 +59,15 @@ From building scalable full-stack web applications and orchestrating cloud-deplo
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesanyog&theme=transparent">
+      <img width="420" src="https://raw.githubusercontent.com/Shreesanyog/Shreesanyog/main/profile-summary-card-output/transparent/3-stats.svg">
     </td>
     <td width="50%">
       <img width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreesanyog&theme=dracula&area=true">
     </td>
   </tr>
-</table>---
+</table>
+
+---
 
 ### 🏆 Highlights
 
