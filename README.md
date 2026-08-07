@@ -85,4 +85,4 @@ As I finalize my degree, I'm eager to apply my diverse skill set in real-world, 
 
 - 🌐 [My Portfolio](https://portfolio-shreesanyog-rath.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shreesanyog-rath-304a61268) 
-- 📧 shreesanyograth2004@gmail.com
+<!-- - 📧 shreesanyograth2004@gmail.com -->
